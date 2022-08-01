@@ -31,6 +31,8 @@ h3,
 h4,
 h5,
 h6 {
+
+    /* Commented on this because of a 'vite' server error */
  /*  @apply font-header; */
 }
 
