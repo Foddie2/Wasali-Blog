@@ -8,12 +8,12 @@ export default defineNuxtConfig({
   content: {
     // https://content.nuxtjs.org/api/configuration
     highlight: {
-      theme: {
+     /*  theme: {
         // Default theme (same as single string)
         default: 'material-palenight',
         // Theme used if `html.dark`
         dark: 'github-dark',
-      }
+      } */
     },
     markdown: {
       toc: {
