@@ -7,14 +7,14 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
   content: {
     // https://content.nuxtjs.org/api/configuration
-    highlight: {
-     /*  theme: {
+  /*   highlight: {
+      theme: {
         // Default theme (same as single string)
         default: 'material-palenight',
         // Theme used if `html.dark`
         dark: 'github-dark',
-      } */
-    },
+      }
+    }, */
     markdown: {
       toc: {
         depth: 5,
